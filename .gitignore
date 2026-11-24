@@ -2,3 +2,17 @@ data/
 *.parquet
 .env
 __pycache__/
+models/
+runs/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.faiss
+*.index
+*.duckdb
+*.sqlite
+.ipynb_checkpoints/
+.venv/
+*.log
+.DS_Store
